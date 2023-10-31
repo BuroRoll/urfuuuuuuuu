@@ -4,3 +4,5 @@ def greeting(name: str):
 
 greeting('Danil')
 greeting('USER!')
+greeting(':)')
+sekl;fjlsdjflkdsjfldsf
